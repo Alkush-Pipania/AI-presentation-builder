@@ -1,8 +1,8 @@
 
 
-# GOOG
+#Presentation Builder
 
-**GOOG** is an AI-powered wrapper designed to simplify the process of creating PowerPoint presentations. Leveraging modern tools like **Bun**, **Clerk**, and **Neon**, GOOG aims to streamline presentation creation with AI assistance for content generation, design suggestions, and more.
+It is an AI-powered wrapper designed to simplify the process of creating PowerPoint presentations. Leveraging modern tools like **Bun**, **Clerk**, and **Neon**, GOOG aims to streamline presentation creation with AI assistance for content generation, design suggestions, and more.
 
 ## 🚀 Features
 - AI-generated presentation slides
